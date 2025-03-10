@@ -8,3 +8,7 @@ ER diagram:
 UI:
 
 ![image](https://github.com/user-attachments/assets/76c5663f-66aa-4705-a235-f4da3b9da328)
+
+Tables:
+
+![image](https://github.com/user-attachments/assets/3e59a1b1-f429-4112-aab5-cf202ffa1b60)
